@@ -1,4 +1,4 @@
 
-Hello Git-local and new and update One and update Two!
+Hello Git-local and new and update A and update B!
 
 
