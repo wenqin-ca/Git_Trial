@@ -1,7 +1,4 @@
 
-<<<<<<< HEAD
-Hello Git-local and new and update Two!
-=======
-Hello Git-local and new and update One!
->>>>>>> caf397a0b049c655de3f8c516914953e32559f78
+Hello Git-local and new and update One and update Two!
+
 
